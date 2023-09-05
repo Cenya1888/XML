@@ -1,0 +1,11 @@
+<questionnaire>
+    <Full_Name>
+        <Last_name=Senya />
+        <First_name=Довженко />
+    </Full_Name>
+    <Others>
+         <Age_years=52 />
+         <Number_of_pets=2 />
+         <Salary=from $3000 />
+    </Others>
+</questionnaire>

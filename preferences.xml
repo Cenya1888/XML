@@ -1,0 +1,13 @@
+<Preferences>
+       <Films_Darling=Avatar />
+       <Series_Darling=Policeman from Rublyovka/>
+       <Season_Darlin=Summer />
+       <country_to_visit=India, Cambodia />
+</Preferences>
+
+<Preferences>
+        <Films_Darling>Avatar</Films_Darling>
+        <Series_Darling>Policeman from Rublyovka</Series_Darling>
+        <Season>Summer</Season>
+        <country_to_visit>India, Cambodia</country_to_visit>
+</Preferences>
