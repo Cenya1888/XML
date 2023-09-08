@@ -2,13 +2,19 @@
 
 # GIT Homework 1 XML
 
-### --> **[New.xml](#new.xml)** <--
+## --> **[XML](#XML)** <--
 
-### --> **[Preferences.xml](#preferences.xml)** <--
+## --> **[New.xml](#new.xml)** <--
 
-### --> **[Skills.xml](#skills.xml)** <--
+## --> **[Preferences.xml](#preferences.xml)** <--
 
-### --> **[Bug_report.xml](#bug_report.xml)** <--
+## --> **[Skills.xml](#skills.xml)** <--
+
+## --> **[Bug_report.xml](#bug_report.xml)** <--
+
+<a id="XML"></a>
+
+[в начало](#go)
 
 ## **XML**
 
@@ -90,7 +96,7 @@
 
 [в начало](#go)
 
-## Preferences.xml
+## **Preferences.xml**
 
 ```
 <Preferences>
@@ -112,7 +118,7 @@
 
 [в начало](#go)
 
-## Skills.xml
+## **Skills.xml**
 
 ```
 <?xml version="1.0" encoding="UTF-8"?>
@@ -169,7 +175,7 @@
 
 [в начало](#go)
 
-## Bug_report.xml
+## **Bug_report.xml**
 
 ```
 
